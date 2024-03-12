@@ -1,3 +1,3 @@
 # python
 introduction to python
-Author - Abdul Basit Khan
+Author - Abdul Basit Khan.
